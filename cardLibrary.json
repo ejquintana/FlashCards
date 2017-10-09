@@ -1,0 +1,102 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "Who am I?",
+    "back": "I am ME"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Roman roads still stand to this day. over thousand years later.",
+    "cloze": "roads"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The Roman Empire was founded in the year 27 AD.",
+    "cloze": "27"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The Sex Pistols were most known for their lead singer Sid Vicious and his girlfriend Nancy.",
+    "cloze": "Sex Pistols"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Rainbows are made of love and cotton candy spun from the dreams of these",
+    "back": "Unicorns"
+  },
+  {
+    "type": "BasicCard",
+    "front": "CBGB is famous for what?",
+    "back": "Finding many famous groups like Blondie and the Ramones."
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Ceasar was assassinated by his fellow senators in 44 BC.",
+    "cloze": "Ceasar"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Hadrian's Wall was a Roman wall built in Britain.",
+    "cloze": "Hadrian's Wall"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What year did the battle of Poitiers occur?",
+    "back": "726"
+  },
+  {
+    "type": "BasicCard",
+    "front": "The Roman Empire spanned",
+    "back": "From Britain to the Middle East."
+  },
+  {
+    "type": "BasicCard",
+    "front": "The year Rome fell.",
+    "back": "476 AD"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Roman emperor known for setting fires.",
+    "back": "Nero"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The Dead Milkmen was known for its punk sensibilities but hilarious songs like \"Take me to the specialist\"",
+    "cloze": "Dead Milkmen"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Romans pioneered this utility:",
+    "back": "Public works and sewage management"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Aquaducts were a Roman innovation to transport fresh water to the public.",
+    "cloze": "Aquaducts"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The Roman Collosseum was a place where emperors staged sea battles, fed its enemies to lions, and other public spectacles to distract and control the people.",
+    "cloze": "Collosseum"
+  },
+  {
+    "type": "BasicCard",
+    "front": "This punk group was well known for its highly political lyrics and songs coupled with insane punk rhythms. ",
+    "back": "Dead Kennedys"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "John Lennon is the walrus.",
+    "cloze": "John Lennon"
+  },
+  {
+    "type": "BasicCard",
+    "front": "The Misfits and DRI represent this musical genre from the 1980s.",
+    "back": "Punk"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Electric sheep dream of robot dogs on treadmills. ",
+    "cloze": "Electric"
+  }
+]
